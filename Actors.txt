@@ -8,7 +8,6 @@ Movies:
 	+ Conan the Barbarian
 	+ True Lies
 
-
 First name: Sylvester
 Last name: Stallone
 Year of birth: 1946
@@ -19,7 +18,6 @@ Movies:
 	+ Tango & Cash
 	+ The Specialist
 
-
 First name: Bruce
 Last name: Willis
 Year of birth: 1955
@@ -29,4 +27,3 @@ Movies:
 	+ Sixth Sense
 	+ Twelve Monkeys
 	+ The Fifth Element
-
